@@ -1,0 +1,5 @@
+brick.png (40x12 px)
+ball.png (8x8 px, can be any size)
+paddle.png (60x10 px, can be any size)
+bump.wav
+ping.wav
